@@ -63,7 +63,7 @@ Additionally, the application should save the user's view state even after page 
 
 **Assets**
 
-[Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/867c6222-5e73-49fb-b21f-a276ba2d258b/76bcb3fe-d025-4ad4-9247-e38c2935b859/Untitled.zip)
+[Assets](./docs/assets.zip)
 
 **Note:**
 
