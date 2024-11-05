@@ -1,0 +1,9 @@
+.kanban-board {
+  padding: 20px;
+}
+
+.kanban-columns {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+}
